@@ -1,0 +1,11 @@
+variable "ELASTICACHE_ENGINE" {}
+variable "ELASTICACHE_ENGINE_VERSION" {}
+variable "ELASTICACHE_INSTANCE_CLASS" {}
+variable "PRIVATE_SUBNET_ID" {}
+variable "ELASTICACHE_PORT" {}
+variable "ALLOW_SG_CIDR" {}
+variable "ELASTICACHE_PG_FAMILY" {}
+variable "PROJECT" {}
+variable "ENV" {}
+variable "VPC_ID" {}
+variable "NUM_OF_NODES" {}
